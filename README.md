@@ -21,6 +21,7 @@ Angular-gcm is a simple directive allowing users to subscribe to Google Cloud Me
 ```
 bower install angular-gcm
 ```
+- add 'angular-gcm' in your app modules
 
 #### Edit/Place files
 
@@ -39,7 +40,7 @@ bower install angular-gcm
     ...
 ```
 
- - Place `service-worker.json` on your root domain and edit it to suite you needs.
+ - Place `service-worker.js` on your root domain and edit it to suite you needs.
 
  - Declare `angular-gcm.js` script.
 
